@@ -1,0 +1,6 @@
+.short { display: none; }
+
+@media only screen and ( max-height: 744px ) {
+	.short { display: block; }
+	.long { display: none; }
+}
