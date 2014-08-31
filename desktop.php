@@ -22,6 +22,8 @@
         <link href='./css/reset.css' media='all' rel='stylesheet' type='text/css' />
         <link href='./css/main.css' media='all' rel='stylesheet' type='text/css' />
 
+        <script type="text/javascript" src="./js/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="./js/main.js"></script>
         <script type="text/javascript">
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-48081507-1']);
