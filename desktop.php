@@ -5,18 +5,18 @@
 
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-        <meta property="og:title" content="Train your tongue with Lick." />
+        <meta property="og:title" content="Booty Shake by Club Sexy Time." />
         <meta property="og:type" content="article" />
         <meta property="og:image" content="http://lickthisapp.com/img/sharethis.png" />
-        <meta property="og:url" content="http://lickthisapp.com" />
-        <meta property="og:description" content="Give your lady what she really wants for Valentine’s Day. Train your tongue with Lick. http://lickthisapp.com" />
+        <meta property="og:url" content="http://clubsexytime.com/projects/bootyshake/" />
+        <meta property="og:description" content="The twerking app icon. http://clubsexytime.com/projects/bootyshake/" />
 
         <meta name="twitter:card" value="summary">
         <meta name="twitter:creator" value="@chrisallick">
-        <meta name="twitter:url" content="http://lickthisapp.com">
-        <meta name="twitter:domain" content="http://lickthisapp.com">
-        <meta name="twitter:title" content="Lick.">
-        <meta name="twitter:description" content="Give your lady what she really wants for Valentine’s Day. Train your tongue with Lick.">
+        <meta name="twitter:url" content="http://clubsexytime.com/projects/bootyshake/">
+        <meta name="twitter:domain" content="http://clubsexytime.com/projects/bootyshake/">
+        <meta name="twitter:title" content="Booty Shake by Club Sexy Time">
+        <meta name="twitter:description" content="The twerking app icon.">
         <meta name="twitter:image" content="http://lickthisapp.com/img/sharethis.png">
         
         <link href='./css/reset.css' media='all' rel='stylesheet' type='text/css' />
@@ -26,7 +26,7 @@
         <script type="text/javascript" src="./js/main.js"></script>
         <script type="text/javascript">
             var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-48081507-1']);
+            _gaq.push(['_setAccount', 'UA-54439801-1']);
             _gaq.push(['_trackPageview']);
 
             (function() {
