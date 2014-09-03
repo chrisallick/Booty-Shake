@@ -1,5 +1,7 @@
 .short { display: none; }
 
+#links a { float: left; }
+
 @media only screen and ( max-height: 744px ) {
 	.short { display: block; }
 	.long { display: none; }

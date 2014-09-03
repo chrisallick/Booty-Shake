@@ -47,8 +47,13 @@
             8==D ~~ :)
         -->
         <div id="wrapper">
-            <a class="long" href="http://clubsexytime.com"><img src="./img/logo.png" /></a>
-            <a class="short" href="http://clubsexytime.com"><img src="./img/logo_4.png" /></a>
+            <div id="links" class="clear">
+                <a class="long" href="http://clubsexytime.com"><img src="./img/logo.png" /></a>
+                <a class="long" href="https://www.youtube.com/watch?v=AjSsUKMaEW0"><img src="./img/play.png" /></a>
+                
+                <a class="short" href="http://clubsexytime.com"><img src="./img/logo_4.png" /></a>
+                <a class="short" href="https://www.youtube.com/watch?v=AjSsUKMaEW0"><img src="./img/play_4.png" /></a>
+            </div>
             <img src="./img/booty.gif" />
             <img class="long" src="./img/copy.jpg" />
             <img class="short" src="./img/copy_4.png" />
