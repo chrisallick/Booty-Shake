@@ -46,7 +46,12 @@
             8==D ~~ :)
         -->
         <div id="wrapper">
-            <img class="booty" src="./img/desktop.gif" />
+            <div id="booty-copy">
+                <!-- <div class="link"></div> -->
+                <a class="link" href="http://clubsexytime.com"></a>
+                <img class="booty" src="./img/desktop.gif" />
+            </div>
+            
             <iframe width="640" height="360" src="//www.youtube.com/embed/AjSsUKMaEW0" frameborder="0" allowfullscreen></iframe>
 
             <div id="social" class="clear">
